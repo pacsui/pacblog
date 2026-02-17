@@ -14,44 +14,31 @@ Well, Since I no longer have a /about page, /now is where I yap about what I've 
 inspired from ʕ´•ᴥ•`ʔσ  https://nownownow.com
 </details>
 
+> _Updated on 17th Feb 2026_
 
-> _Updated on 17th Jan 2026_
-
-So alot of things happened this past half month since I last updated the /now.
-
-### Firstly ...
-
-I got put into work at JPMC and it was to be really honest a bit mundane ... maybe expected cause I'm still learning alot of things here, Still getting used to solving those tickets and learning more about the infra and stuff at the organisation, and hell dealing with users!
-
-### Secondly...
+Wew! Its been a month since I last updated this.
 
 
-<details>
-<summary><i>[SENSITIVE] I came out to my parents!!</i></summary>
+## Work and stuff!
 
-**This is huge** I uhm got outed by my dad for being too womenly. So at JPMC we have a mandatory full body health checkup thingy where they gendered me as female in the final reports (I havent told them anything... I passed? Euphoria?) so my dad saw those things and told me bunch of not so good things. I told him I am Enby and asked both the parents to come to Psychiatrist.
+Well time has been slipping insanely fast now that I am actually working, and Stuff has happened! not much but stuff is stuff now.
+
+I don't feel good about the work I am doing here, It feels Mundane and Uninteresting compared to what I used to do, Maybe switching to SRE down the line mayhaps would make it more interesting but for now solving tickets is not a good thing for me imo.
+
+Attended some cool events last month, The Hyderabad Literary Fest in Sattva and HySai in Hyderabad Foreign language university, both are pretty memorable tbh, Apart from that I've done nothing tbh mostly trying to solve tickets, fix sleep again and waking up again everyday with dread of SLA breaches and stuff, Really miss working on my homelab and writing code, Hopefully I get used to this so I can squeeze some time out of work (which I am overextending past my work hours).
 
 
-Today (17th Jan 2026) they came with me and had a talk with Dr Aana Shah (The same Psychiatrist I've visited last year regarding all the documents) well -
-Dad told me _Do what you want but I won't be helping you in anything_, 
-whilst Mom went complete nuts and told me _I've wasted 25 years of my life and you give me this bad news_.
+## HRT and Addictions!
 
-Well my mom said that she lost opportunity to work as a teacher cause she was pregnant with me, and blames her lack of career on me.
-She considered kililng me during pregancy (ABORTION, that is the sentence she used to tell me calling me demonic and disgusting).
+Well! Its been 9 Months on HRT now, and OH GOD Browbone dysphoria is insane, I need to get a surgery... I spoke with Olmec (who ghosted me instead of replying) so Currently checking with Renai medicity. Not sure how I'll be sneak having a surgery with atleast 1.5 weeks of leaves needed, Hopefully with WFH i can manage something.
 
-So yeah I've been told I am complete failure... a Dissapointment and bunch of other things.
-<br>
-</details>
+I have also realised I am addicted to reddit tbh, and also the terrible news and rage baiting... Planning on reducing reddit usage and switching back to reading comics and stuff. Added some new webtoons so let's see how it goes.
 
-### Third!!!!
+## I AM ALSO LEARNING HANGUL!!!
 
-I got my parcel from my Hongkong Friend!!! and OMG it has MAOMAO(s). I freaking love it so much omfg! 
+Well trying to now atleast... Hopefully I'll be able to learn something by mid of this year ... without quitting.
 
-> This really cheered me up today omg... Thank you soo much c3818 <333
 
-Now its my time to find some fancy things (already got some stuff she might like) but this is harder than what I thought finding things in Hyderabad lol.
-
-{{< youtube 8wdtxKo47Bg >}}
-
+> PS. Now pic is updated seperately from the blog commits, since its a CDN link
 
 ![nowpic](https://cdn.pacsui.me/imgs/irl/now.jpg)
