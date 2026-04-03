@@ -29,7 +29,7 @@ Indian Government has introduced a new Law regarding `Transgender Protection Act
 
 I have tried to get my TG card before this bill was passed into the Law! as It was applied in 2025 December (4 months ago!)
 
-This was raised as a complaint in Prajavani session in Medchal-Malkajgiri, where DWO Ms Sharada has stated they can't proceed with it as Aanganwadi has failed to deliver verification documents (which are present on the TG portal) physically and hence unable to approve the application.
+This was raised as a complaint in _Prajavani_ session in Medchal-Malkajgiri, where DWO _Ms Sharada_ has stated they can't proceed with it as _Aanganwadi_ has failed to deliver verification documents (which are present on the TG portal) physically and hence unable to approve the application.
 
 In a state of panic I have considered surgery to change docs, and have had paid the surgery and tests and decided to back off realising the permanance of said surgery and the stupidity on how hastily the decision was made without proper planning (I am not proud of what I've done here, thankfully I came back into senses without irreversible change was done to me).
 
@@ -46,8 +46,6 @@ Well, the medical system seem to be collapsing due to this, healthcare professio
 
 > Excuse my thought process of dumping everything as pro cons here like a school QA, I journal things in a flow graph which have interdependancy between my thoughts, I process everything as a massive decision graph (Which I have severely violated while planning surgery leading to unplanned stupidness... which I have managed to thankfully not go with)
 
-> I'll talk about the decision making steps I've taken at end of this entry, as I feel like I have violated for the first time on my own decision checks which I follow, which is a serious thing for my risk averse decision making process.
-
 These are the possible things I can do going forward, I do have preferences and the end decision is upto me for my own good and being safe.
 
 <details>
@@ -60,7 +58,7 @@ These are the possible things I can do going forward, I do have preferences and 
 
 #### De-transition?
 
-This was my initial and could be the most safest option at the expense of my mental health. I know alot of Trans folks would hate to Detransition once they're on HRT but my only hate towards my gender would be that I'd be looking and more importantly smelling manly.
+This was my initial and could be the most safest option at the expense of my mental health. I know alot of Trans folks would hate to Detransition once they're on HRT. A very sensitive topic for discussion which I have just shoved on alot of people who have recently started HRT.
 
 Pros:
 - Laser is cheap, I can keep affording it to remove my beard.
@@ -106,9 +104,8 @@ Cons:
 - Expensive (Thailand most probably)
 - Uncertain about law invalidating this option post surgery
 - Permanent Infertility
-- Actual WTF...Removing my parts of body for someone else's VALIDITY???
+- Actual WTF...Removing my parts of body for someone else VALIDATING ME????
 - Have to go through Medical board... NAKED to be proved that I am indeed what I identify as??????
-
 ---
 </details>
 
@@ -116,24 +113,21 @@ Cons:
 
 ### Decision Breakdown
 
-I see the world in bits of decision graph that I can follow, they are not strictly directed, as some decisions can be reversible for me, which SURGERY is NOT!
+I see the world in bits of decision graph that I can follow, they are not strictly directed, as some decisions can be reversible for me, which **SURGERY is NOT!**
 
-OMG! I never was this hasty in making a decision, the Panic and urgency that I faced was just ... it broke me.. that's all I can say.
+OMG! I never was this hasty in making a decision, the Panic and urgency that I faced was just ... _it broke me_.. that's all I can say.
 
-I am so Thankful, I did not go through with the surgery... would've been irresponsible, especially without proper planning on taking care of myself post surgery.
+I am so Thankful, I did not go through with the surgery... would've been _extremely irresponsible_, especially without proper planning on taking care of myself post surgery.
 
 How the ...heck did I end up in the state of misery that this happened, for the first time... I used AI for therapy which is a horrible stupid irresponsible mistake. The thing with AI is... Its non deterministic and states whatever it has to say to sound ... intelligent which IT IS NOT!!!, the sessions about wanting surgery went to how its still a viable option to change gender... the fact that it does not and will not understand the permanance of a surgery with the state of fear I was living in made this perfect storm of a choice.
 
-Secondly, Bias of the people I've discussed surgery with, Usually I tend to ask people for opinions and expect varied responses with some being for and against. I am extremely thankful people have been supportive of me and have been helping me alot through the journey but ... I got mostly **Supportive** and **FOR** responses for me having surgery which just ended up giving me confirmation bias into getting it. Surgery went from a _want_ to a _need_, the thing that really knocked some sense into me is people who I expected would make me reconsider decisions being supportive, made me re-evaluate what I just did. **BUT** I am really thankful for all the people who have given me inputs on my decisions, I respect everyone's decision who really have put their ideaologies to suggest what could be the best for me.
+Secondly, Bias of the people I've discussed surgery with, Usually I tend to ask people for opinions and expect varied responses with some being for and against. I am extremely thankful people have been supportive of me and have been helping me alot through the journey but ... I got mostly **+Supportive +For** responses for me having surgery which just ended up giving me confirmation bias into getting it. Surgery went from a _want_ to a _need_, the thing that really knocked some sense into me is people who I expected would make me reconsider decisions being supportive, made me re-evaluate what I just did. **BUT** I am really thankful for all the people who have given me inputs on my decisions, I respect everyone's decision who really have put their ideaologies to suggest what could be the best for me.
 
 I would still would like to know if there are better ways of proceeding forward, If you're reading this as an external person you can drop me a mail [pascui@riseup.net](mailto:pacsui@riseup.net). I would really appreciate it.
 
-
-
-Thanks for reading this... I just had to dump my thoughts somewhere.
+Thanks for reading this... I just had to dump my thoughts somewhere, I am doing a little better than couple of days back, Still having Panic attacks and nightmares.
 
 Cheers!
 (˵ •̀ ᴗ - ˵ ) ✧.
-
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2VBluJiNj9bKohWX0dY1Lh?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
