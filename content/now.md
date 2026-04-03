@@ -49,7 +49,7 @@ Well, the medical system seem to be collapsing due to this, healthcare professio
 These are the possible things I can do going forward, I do have preferences and the end decision is upto me for my own good and being safe.
 
 <details>
-<summary>Sensitive!! Click to Open</summary>
+<summary><b>Sensitive!! Click to Open</b></summary>
 
 
 > PS. I don't want to have large breasts, I prefer to be more andro presenting than Fem presenting.
