@@ -123,7 +123,7 @@ How the ...heck did I end up in the state of misery that this happened, for the 
 
 Secondly, Bias of the people I've discussed surgery with, Usually I tend to ask people for opinions and expect varied responses with some being for and against. I am extremely thankful people have been supportive of me and have been helping me alot through the journey but ... I got mostly **+Supportive +For** responses for me having surgery which just ended up giving me confirmation bias into getting it. Surgery went from a _want_ to a _need_, the thing that really knocked some sense into me is people who I expected would make me reconsider decisions being supportive, made me re-evaluate what I just did. **BUT** I am really thankful for all the people who have given me inputs on my decisions, I respect everyone's decision who really have put their ideaologies to suggest what could be the best for me.
 
-I would still would like to know if there are better ways of proceeding forward, If you're reading this as an external person you can drop me a mail [pascui@riseup.net](mailto:pacsui@riseup.net). I would really appreciate it.
+I would still would like to know if there are better ways of proceeding forward, If you're reading this as an external person you can drop me a mail [pacsui@riseup.net](mailto:pacsui@riseup.net). I would really appreciate it.
 
 Thanks for reading this... I just had to dump my thoughts somewhere, I am doing a little better than couple of days back, Still having Panic attacks and nightmares.
 
