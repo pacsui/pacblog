@@ -2,7 +2,7 @@
 
 ## <div title="and other hyper intelligent species">₊ ⊹ . ݁ ⟡ ݁ . ⊹ **Greeting Hitchikkers** ₊ ⊹ . ݁ ⟡ ݁ . ⊹</div><br>
 
-Je suis *Prachi* (_she_/_her_), The eternal overlord of curiosity and an epic overthinking<br>
+Je suis *Pacsui* (_any_/_all_), The eternal overlord of curiosity and an epic overthinking<br>
 (⸝⸝> ᴗ•⸝⸝)<br>
 
 I have a keen interest in Selfhosting, Gamedev, Robotics and tinkering with electronics. Loves to explore and travel, Absolutely addicted to Music, Anime and Manga.
