@@ -1,9 +1,8 @@
 FROM docker.io/library/nginx
 
 LABEL maintainer="prashantn@riseup.net"
-LABEL name="Nandipati Prashant"
 
-ENV GIT_URL="https://github.com/itspacchu/pacblog"
+ENV GIT_URL="https://github.com/pacsui/pacblog"
 
 RUN apt update && apt upgrade -y && apt install wget git -y
 
@@ -22,5 +21,7 @@ COPY ./nginx/nginx.conf ./nginx.conf
 RUN cp ./nginx.conf /etc/nginx/nginx.conf
 
 RUN hugo
+
+EXPOSE 8080
 
 RUN cp -r ./public/* /usr/share/nginx/html
