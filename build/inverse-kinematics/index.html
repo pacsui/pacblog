@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="https://pacsui.me/images/favicon.png" />
+<title>Inverse Kinematics | Pacsui (⸝⸝ᵕᴗᵕ⸝⸝)</title>
+<meta name="title" content="Inverse Kinematics" />
+<meta name="description" content="&#43;&#43;&#43;&#43; This post is mirrored from here
+This project started off in exploring the Inverse Kinematics. Inverse kinematics piqued my interest when I started watching MIT maker portfolio videos and stumbled on a 5 arm chain Robot arm. I&rsquo;ve always wondered how IK systems work in blender or cinema4D and I thought I&rsquo;d explore.
+The first method I stumbled on was Isoceles triangle approach where you compute angles assuming symmetricity of Isoceles triangle." />
+<meta name="keywords" content="" />
+
+
+<meta property="og:url" content="https://pacsui.me/inverse-kinematics/">
+  <meta property="og:site_name" content="Pacsui (⸝⸝ᵕᴗᵕ⸝⸝)">
+  <meta property="og:title" content="Inverse Kinematics">
+  <meta property="og:description" content="&#43;&#43;&#43;&#43; This post is mirrored from here
+This project started off in exploring the Inverse Kinematics. Inverse kinematics piqued my interest when I started watching MIT maker portfolio videos and stumbled on a 5 arm chain Robot arm. I’ve always wondered how IK systems work in blender or cinema4D and I thought I’d explore.
+The first method I stumbled on was Isoceles triangle approach where you compute angles assuming symmetricity of Isoceles triangle.">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2020-07-30T19:39:31+05:30">
+    <meta property="article:modified_time" content="2020-07-30T19:39:31+05:30">
+    <meta property="og:image" content="https://pacsui.me/images/share.png">
+
+
+
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://pacsui.me/images/share.png">
+  <meta name="twitter:title" content="Inverse Kinematics">
+  <meta name="twitter:description" content="&#43;&#43;&#43;&#43; This post is mirrored from here
+This project started off in exploring the Inverse Kinematics. Inverse kinematics piqued my interest when I started watching MIT maker portfolio videos and stumbled on a 5 arm chain Robot arm. I’ve always wondered how IK systems work in blender or cinema4D and I thought I’d explore.
+The first method I stumbled on was Isoceles triangle approach where you compute angles assuming symmetricity of Isoceles triangle.">
+
+
+
+
+  <meta itemprop="name" content="Inverse Kinematics">
+  <meta itemprop="description" content="&#43;&#43;&#43;&#43; This post is mirrored from here
+This project started off in exploring the Inverse Kinematics. Inverse kinematics piqued my interest when I started watching MIT maker portfolio videos and stumbled on a 5 arm chain Robot arm. I’ve always wondered how IK systems work in blender or cinema4D and I thought I’d explore.
+The first method I stumbled on was Isoceles triangle approach where you compute angles assuming symmetricity of Isoceles triangle.">
+  <meta itemprop="datePublished" content="2020-07-30T19:39:31+05:30">
+  <meta itemprop="dateModified" content="2020-07-30T19:39:31+05:30">
+  <meta itemprop="wordCount" content="206">
+  <meta itemprop="image" content="https://pacsui.me/images/share.png">
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  <style>
+  :root {
+    --width: 720px;
+    --font-main: Verdana, sans-serif;
+    --font-secondary: Verdana, sans-serif;
+    --font-scale: 1em;
+    --background-color: #0b1b12;  
+    --heading-color: #F5EFDC;  
+    --text-color: #dcd3c6;  
+    --link-color: #8FB38A;  
+    --visited-color: #b39cd0;  
+    --blockquote-color: #cdbfae;
+
+    --palm-leaf: #121e18;    
+    --deep-mocha: #f8f2f6;   
+  }
+
+  body {
+    font-family: var(--font-secondary);
+    font-size: var(--font-scale);
+    margin: auto;
+    padding: 20px;
+    max-width: var(--width);
+    text-align: left;
+    background-color: var(--background-color);
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.5;
+    color: var(--text-color);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-main);
+    color: var(--heading-color);
+    transform: scaleX(1.15) skewX(-5deg);
+    transform-origin: left;
+  }
+
+  a {
+    color: var(--link-color);
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  nav a {
+    margin-right: 8px;
+  }
+
+  strong,
+  b {
+    color: var(--heading-color);
+  }
+
+  button {
+    margin: 0;
+    cursor: pointer;
+  }
+
+  time {
+    font-family: monospace;
+    font-style: normal;
+    font-size: 15px;
+  }
+
+  main {
+    line-height: 1.6;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px dashed;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  blockquote img {
+    display: block;
+    margin: 1em auto;
+  }
+
+  code {
+    font-family: monospace;
+    padding: 2px;
+    border-radius: 3px;
+    background-color: var(--palm-leaf);
+    color: var(--deep-mocha);
+  }
+
+  pre {
+    background-color: var(--palm-leaf) !important;  
+    color: var(--deep-mocha);
+    padding: 1em;
+    border-radius: 3px;
+    overflow-x: auto;
+    line-height: 1.4;
+  }
+
+  blockquote {
+    border-left: 1px solid var(--blockquote-color);
+    color: var(--blockquote-color);
+    padding-left: 20px;
+    font-style: italic;
+  }
+
+  footer {
+    padding: 25px 0;
+    text-align: center;
+  }
+
+  .title:hover {
+    text-decoration: none;
+  }
+
+  .title h1 {
+    font-size: 1.5em;
+  }
+
+  .inline {
+    width: auto !important;
+  }
+
+  .highlight {
+    background-color: var(--palm-leaf);
+    border-radius: 3px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    overflow-x: auto;
+  }
+
+  .highlight pre {
+    margin: 0;
+    padding: 1em;
+  }
+
+  code {
+    font-family: monospace;
+    padding: 2px 4px;
+    border-radius: 3px;
+    background-color: var(--palm-leaf);
+    color: var(--deep-mocha);
+  }
+
+   
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
+    display: flex;
+  }
+
+  ul.blog-posts li span {
+    flex: 0 0 130px;
+  }
+
+  ul.blog-posts li a:visited {
+    color: var(--visited-color);
+  }
+
+</style>
+
+</head>
+
+<body>
+  <header><a href="/" class="title">
+  <h2>Pacsui (⸝⸝ᵕᴗᵕ⸝⸝)</h2>
+</a>
+<nav>
+<a href="/now/">/now</a>
+
+<a href="/blog/">/blog</a>
+
+<a href="/vlogs/">/vlog</a>
+
+</nav>
+</header>
+  <main>
+
+<h1>Inverse Kinematics</h1>
+<p>
+  <i>
+    <time datetime='2020-07-30'>
+      30 Jul, 2020
+    </time>
+  </i>
+</p>
+
+<content>
+  <p>++++ This post is mirrored from <a href="https://vonneumannscientia.pythonanywhere.com/post/25/">here</a></p>
+<p>This project started off in exploring the <a href="https://en.wikipedia.org/wiki/Inverse_kinematics">Inverse Kinematics</a>. Inverse kinematics piqued my interest when I started watching MIT maker portfolio videos and stumbled on a 5 arm chain Robot arm. I&rsquo;ve always wondered how IK systems work in blender or cinema4D and I thought I&rsquo;d explore.</p>
+<p>The first method I stumbled on was Isoceles triangle approach where you compute angles assuming symmetricity of Isoceles triangle.</p>
+<center>
+<img src="https://cdn.discordapp.com/attachments/852930321493655563/954776165330083921/unknown.png" width=50%>
+</center>
+<p>This method rapidly fails when the we want to compute angles for a non-symmetric conditions and for longer chains.</p>
+<h3 id="fabrik">FABRIK</h3>
+<p>FABRIK (Forward And Backward Reaching Inverse Kinematics) seems to be the most common method of inverse kinematics. It&rsquo;s a simple method that works well for short chains, and works on an Iterative approach.</p>
+<p>There&rsquo;s a really impressive video on YouTube that explains the FABRIK method.</p>
+<iframe width="640" height="320" src="https://www.youtube.com/embed/UNoX65PRehA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>
+A Basic implementation in C# would involve looping through the chain and computing the angles, then back-propagating the angles to the end of the chain, Control nodes can be added to the chain to control the angles.
+Using FABRIK also lets you have long chains and control the pole placement of the end effector.
+<p>Here&rsquo;s a small snippet of what I got to work.</p>
+<center>
+<img src="https://cdn.discordapp.com/attachments/852930321493655563/954775666648285244/2a1e50965211a88da86b4c850a9b27f1.gif" width=100%>
+</center>
+<p><code>#TODO Update when done</code></p>
+
+</content>
+
+<div style="font-size:0.8em;display:flex;gap:16px;justify-content:center;">
+  <p>
+    
+    <a href="https://pacsui.me/worst-tank-project/">
+      &lt;&lt; Previous Post</a>
+        
+  </p>
+  <p>|</p>
+  <p>
+    
+    <a href="https://pacsui.me/double_pendulum/">Next Post >></a>
+    
+  </p>
+</div>
+
+
+<p>
+  
+</p>
+
+  </main>
+  <footer>Made with <a href="https://github.com/janraasch/hugo-bearblog/">Hugo ʕ•ᴥ•ʔ Bear</a>
+</footer>
+
+  
+</body>
+
+</html>
