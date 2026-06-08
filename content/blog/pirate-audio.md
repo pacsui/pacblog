@@ -1,0 +1,5 @@
+---
+title: "Pirate Audio Tinkerings"
+date: 2026-06-8T20:07:09Z
+draft: true
+---
