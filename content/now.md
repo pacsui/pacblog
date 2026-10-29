@@ -13,9 +13,9 @@ Well, Since I no longer have a /about page, /now is where I yap about what I've 
 inspired from ʕ´•ᴥ•`ʔσ  https://nownownow.com
 </details>
 
-> _Updated on 14th October 2026_
+> _Updated on 30th October 2026_
 
-Went to Kerala and Bengaluru trip and got amazing gifts from my Aunt and Uncle.
-Met Amara who is a lovely amazing person :D
+So many things on my mind right now, this is absurd... why can't I just be allowed to live as me.
 
-![spookpac](https://cdn.pacsui.me/imgs/irl/spookpac_17m.jpeg)
+I tried some cool outfits.
+#TODO update pic.

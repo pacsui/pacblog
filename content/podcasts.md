@@ -39,11 +39,11 @@ These are some podcasts I listen to, These are my Park/Leisure listen things whi
 
 ### 2.5 Admins ~ The Late Night Linux Family
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/5SnfOIrOCRtTbCaDifDgjO?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="160" width="640" style="width:100%;max-width:640px;overflow:hidden;border-radius:12px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/2-5-admins/id1509561572?size=small"></iframe>
 
 ### Quanta Magazine Podcast
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/7oKXOpbHzbICFUcJNbZ5wF?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="160" width="640" style="width:100%;max-width:640px;overflow:hidden;border-radius:12px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/the-quanta-podcast/id1021340531?size=small"></iframe>
 
 ---
 
@@ -58,9 +58,6 @@ These are some podcasts I listen to, These are my Park/Leisure listen things whi
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/0emVYc04B4y5UzBIvA0axo?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-### Medical Murders
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/3cY3fxs68qyfXxnqILRns6?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Let's Read
 
@@ -80,7 +77,7 @@ These are some podcasts I listen to, These are my Park/Leisure listen things whi
 
 ### Therapy in a Nutshell
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/3zYMh54e1Wd6hOBqV0vU2W?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="160" width="640" style="width:100%;max-width:640px;overflow:hidden;border-radius:12px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/therapy-in-a-nutshell/id1514880062?size=small"></iframe>
 
 ---
 
