@@ -20,22 +20,27 @@ These are some podcasts I listen to, These are my Park/Leisure listen things whi
 
 > I listen to some just cause I love their speaking style and accent :D
 
+# STEM
 
-# Technology
+### The Rest Is Science
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="160" width="640" style="width:100%;max-width:640px;overflow:hidden;border-radius:12px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/the-rest-is-science/id1853007888?size=small"></iframe>
 
 ### IRL ~ Mozilla
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/0vT7LJMeVDxyQ2ZamHKu08?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="160" width="640" style="width:100%;max-width:640px;overflow:hidden;border-radius:12px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/irl-online-life-is-real-life/id1247652431?size=small"></iframe>
 
 ### Command Line Heros ~ Redhat
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/4Jgtgr4mHXNDyLldHkfEMz?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="160" width="640" style="width:100%;max-width:640px;overflow:hidden;border-radius:12px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/command-line-heroes/id1319947289?size=small"></iframe>
 
 ### Kubernetes Podcast ~ Google
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/0AsnxlMtXRUEeZkIO0ScpJ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="160" width="640" style="width:100%;max-width:640px;overflow:hidden;border-radius:12px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/kubernetes-podcast-from-google/id1370049232?size=small"></iframe>
+
+### Hyperfocus
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="160" width="640" style="width:100%;max-width:640px;overflow:hidden;border-radius:12px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/hyperfocus-with-rae-jacobson/id1772284745?size=small"></iframe>
 
 ### 2.5 Admins ~ The Late Night Linux Family
 
@@ -49,14 +54,17 @@ These are some podcasts I listen to, These are my Park/Leisure listen things whi
 
 # True Crime
 
-### Late Nights with Nexpo
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/49b3Sp2AdbPEZBOm03cibu?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-
 ### Redhanded
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/0emVYc04B4y5UzBIvA0axo?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="160" width="640" style="width:100%;max-width:640px;overflow:hidden;border-radius:12px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/redhanded/id1250599915?size=small"></iframe>
+
+### Rotten Mango
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="160" width="640" style="width:100%;max-width:640px;overflow:hidden;border-radius:12px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/rotten-mango/id1517954480?size=small"></iframe>
+
+### Late Nights with Nexpo
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="160" width="640" style="width:100%;max-width:640px;overflow:hidden;border-radius:12px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/late-nights-with-nexpo/id1794386719?size=small"></iframe>
 
 ### Medical Murders
 
@@ -66,27 +74,18 @@ These are some podcasts I listen to, These are my Park/Leisure listen things whi
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/6BVRG4GxyOpflycvaWZ2DE?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-### Rotten Mango
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/2DZwvzn6Z3xCFZrwZGDrbj?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 ---
 
 # Self Care
 
 ### Huberman Lab
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/79CkJF3UJTHFV8Dse3Oy0P/video?utm_source=generator" width="496" height="279" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="160" width="640" style="width:100%;max-width:640px;overflow:hidden;border-radius:12px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/huberman-lab/id1545953110?size=small"></iframe>
 
 ### Therapy in a Nutshell
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/3zYMh54e1Wd6hOBqV0vU2W?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
----
-
-# Misc
-
-### Unexplainable ~ Vox
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/0PhoePNItwrXBnmAEZgYmt?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
