@@ -49,9 +49,15 @@ I got my GID through [`Dr Aana Shaunak Shah`](https://www.draanashah.com/), You 
 
 Second consulation with my parents.
 
+<br>
+
+
 ### ⌺ HRT Certificate & HRT Prescription
 
 Was recommended to Dr Rakesh Sahay by Dr Aana, Albit I was underdosed initially. He gave me HRT Certificate and Prescription.
+
+<br>
+
 
 ### ⌽ Transgender ID Card and Certificate
 
@@ -62,6 +68,7 @@ Website has been down since June 2026 - https://tg.dosje.gov.in/
 If you're living in Hyderabad - Medchal Malkajgiri, Try reaching out to
 
 Sharada DSWO Medchel `+91 898 5818 484`
+
 Punyawati  `+91 807 4676 124` - Whatsapp Only
 
 Punyawati issues the cards physically by printing the template and getting it signed by District Magistrate. Surprisingly the District Magistrate genders people right and has guided me to Sharada.
@@ -71,6 +78,9 @@ Note that I had to go to `Prajavani` (this happens every Monday from 9:30 AM in 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed?bbox=78.58086526393892%2C17.561044353769976%2C78.5851675271988%2C17.565227896779525&amp;layer=mapnik&amp;marker=17.563136137360242%2C78.58301639556885" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=17.563136&amp;mlon=78.583016#map=18/17.563136/78.583016">View Larger Map</a></small>
 
 Google maps `HH7M+63 Secunderabad, Telangana`
+
+<br>
+
 
 ---
 
@@ -85,21 +95,38 @@ Changing Gender on Aadhar doesn't require any documents.
 
 > To update your gender, you only need to self-declare the gender you identify with. No medical proof, gazette notification, or transgender ID card is required. You can read about UIDAI's official guidance on handling name and gender changes in Aadhaar cards here.
 
+<br>
+
+
 #### First Appointment - 21st March 2026
 
-Appointment scheduled in **Ameerpet ASK (Aadhar Seva Kendra)**, **Donot go here!** 
+Appointment scheduled in **Ameerpet ASK (Aadhar Seva Kendra)**, **DONOT GO HERE!** 
+
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed?bbox=78.4428119659424%2C17.436864805688483%2C78.44496309757234%2C17.438958019201593&amp;layer=mapnik&amp;marker=17.437910156877038%2C78.44388721965993" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=17.437910&amp;mlon=78.443887#map=19/17.437910/78.443887">View Larger Map</a></small>
 
 People are not helpful and are not ready to listen to official guidelines, I was ridiculed and was told that changing gender will cause issues for me in future.
+
+<br>
+
 
 #### Second Appointment - 17th Sept 2026
 
 Appointment in **Raidurg ASK (Aadhar Seva Kendra)**
+
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed?bbox=78.3840447664261%2C17.44268121858979%2C78.38619589805603%2C17.444774365346543&amp;layer=mapnik&amp;marker=17.443727957165613%2C78.38512147818233" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=17.443728&amp;mlon=78.385121#map=19/17.443728/78.385121">View Larger Map</a></small>
+
+Google Maps - C9VP+F2 Madhapur, Hyderabad, Telangana
+
 
 Went in with my Appointment number to Counter A and got my Token.
 
 Counter B they took my biometrics, updated my gender.
 
 UIDAI Portal and Aadhar app data were updated in 3 hours, later resynced on digilocker.
+
+
+<br>
+
 
 ### PAN [ ⌼ ⌽ ]
 > Done - 11 days
@@ -111,6 +138,12 @@ Took me 4 days for verification confirmation and Physical PAN delivered in +1 we
 
 [Updating Gender on PAN - AfterTheSilence](https://afterthesilence.org/blogs/how-to-update-your-name-and-gender-on-your-pan-card)
 
+
+
+<br>
+
+
+
 ### Voter ID
 
 > Current status - Awaiting Acknowledgement
@@ -118,6 +151,10 @@ Took me 4 days for verification confirmation and Physical PAN delivered in +1 we
 #TODO 
 
 My name was deleted in SIR hence this has complicated this process.
+
+
+<br>
+
 
 
 
@@ -129,9 +166,19 @@ My name was deleted in SIR hence this has complicated this process.
 
 My Passport experience was very different from all the online talks and discussions with other folks in different states, I'll write about this a bit more at the end.
 
+<br>
+
+
 ### Appointment - 3rd Nov 2026
 
 Appointment in Begumpet PSK at 9:15 AM, Reached there at 8:45.
+
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed?bbox=78.47437888383865%2C17.441304539287678%2C78.47653001546861%2C17.443397701846877&amp;layer=mapnik&amp;marker=17.442350213154583%2C78.47545358318757" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=17.442350&amp;mlon=78.475454#map=19/17.442350/78.475454">View Larger Map</a></small>
+
+Google Maps - CFRG+W5 Hyderabad, Telangana
+
+<br>
+
 
 #### Token Counter
 
@@ -142,6 +189,10 @@ Appointment in Begumpet PSK at 9:15 AM, Reached there at 8:45.
 - Previous passport - Photocopy
 
 _Got token N-23_
+
+
+<br>
+
 
 #### Counter A 
 
@@ -155,9 +206,15 @@ They scanned uploaded:
 
 They said TG Card is not required to be scanned and to come back if Counter C requests for it.
 
+<br>
+
+
 #### Counter B
 
 They validated my Aadhar, PAN, asked why I am applying new passport when its under validity, mentioned its demographic update.
+
+<br>
+
 
 #### Counter C
 
@@ -170,6 +227,9 @@ He asked couple of questions on where I work, Why my name has a `D` without any 
 He did suggest me to change my name by expanding `D` to reduce further complications in future.
 
 He punched my passport and said its granted, well I did ask after that if TG Card is needed to be scanned, or any other documents? He said not needed.
+
+<br>
+
 
 ### Police Verification - 6th Nov 2026
 
@@ -193,9 +253,15 @@ for which he asked me why and how passport office changed the gender. I gave him
 
 Paid a bribe of INR 700, he said he'll get back to me once he verifies the documents I shared.
 
+<br>
+
+
 This was a weird process for me since most people I've spoken to in Hyderabad has mentioned that TG Cards were not being accepted, B/L Orchiectomy surgery being denied at the APO cabin, While I was not asked for TG Card or anything.
 
-Similarly another friend is trying to get her Passport updated in Chennai, which has been stuck with RPO with the same document listing. So Not sure how well my POV would help others but here's that.
+Similarly another friend is trying to get her Passport updated in Chennai, which has been stuck with RPO with the same document list. So Not sure how well my POV would help others but here's that.
+
+<br>
+
 
 ### Birth Certificate [?]
 
