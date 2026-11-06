@@ -15,8 +15,12 @@ disableShare: true
 
 Hello people and lurkers, This page is not indexable so you've been shared this link by someone.
 
+# Important things to know
 
-#TODO to update, pasting from Discord TSS Timeline
+- Get someone to be with you for 4-5 days
+- It costed me 159,000 INR for surgery + Bed (2 days non AC)
+- Get CT-Scan Dicom files from the operator, it can be mailed or CD
+- Don't pack winter wear, Kochi is hot!
 
 # -10 days
 
