@@ -18,4 +18,6 @@ inspired from ʕ´•ᴥ•`ʔσ  https://nownownow.com
 So many things on my mind right now, this is absurd... why can't I just be allowed to live as me.
 
 I tried some cool outfits.
-#TODO update pic.
+
+<img width="339" height="550" alt="pacoutfit" src="https://github.com/user-attachments/assets/f6753450-f3d1-43b2-a0f3-17f97a812606" />
+
