@@ -13,11 +13,13 @@ Well, Since I no longer have a /about page, /now is where I yap about what I've 
 inspired from ʕ´•ᴥ•`ʔσ  https://nownownow.com
 </details>
 
-> _Updated on 30th October 2026_
+> _Updated on 7th November 2026_
 
-So many things on my mind right now, this is absurd... why can't I just be allowed to live as me.
+Had my passport appointment for reissue, Dad outing me caused a mini panic.
 
-I tried some cool outfits.
+Trying out my friend's glasses (and wearing a kurti to office).
 
-<img width="339" height="550" alt="pacoutfit" src="https://github.com/user-attachments/assets/f6753450-f3d1-43b2-a0f3-17f97a812606" />
+So many things to do omg!
+
+![slimglasses](upload_in_gh.png)
 
