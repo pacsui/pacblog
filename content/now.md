@@ -21,5 +21,6 @@ Trying out my friend's glasses (and wearing a kurti to office).
 
 So many things to do omg!
 
-![slimglasses](upload_in_gh.png)
+![slimglasses](https://github.com/user-attachments/assets/7a881716-198f-46e8-8ee3-80b800e2df5f)
+
 
