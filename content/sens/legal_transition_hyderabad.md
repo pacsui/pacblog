@@ -31,10 +31,10 @@ Most Likely going with Expansion of `D`, as `N P Dina`
 
 - [x] Aadhar*
 - [x] PAN*
-- [x] VoterID* (Awaiting update)
-- [x] Passport*,*** (Granted - Pending PVC)
+- [x] VoterID*
+- [x] Passport*,***
 - [ ] Driver's License* (Awaiting Gazette)
-- [ ] UAN 
+- [x] UAN 
 - [ ] CBSE** (Awaiting Gazette)
 - [ ] JNTUH** (Awaiting Gazette)
 - [ ] Birth Certificate*** (Awaiting Gazette)
@@ -146,15 +146,21 @@ Took me 4 days for verification confirmation and Physical PAN delivered in +1 we
 
 ### Voter ID
 
-> Current status - Awaiting Acknowledgement
+> Current status - Done
 
-#TODO 
-
-My name was deleted in SIR hence this has complicated this process.
-
+Updated on the portal, submitted digital form 8,
+SIR included gender as Female.
 
 <br>
 
+### UAN
+
+> Current status - Done
+
+Updated on the portal.
+Portal synced via Passport and PAN.
+
+<br>
 
 
 
@@ -190,9 +196,7 @@ Google Maps - CFRG+W5 Hyderabad, Telangana
 
 _Got token N-23_
 
-
 <br>
-
 
 #### Counter A 
 
@@ -255,6 +259,8 @@ Paid a bribe of INR 700, he said he'll get back to me once he verifies the docum
 
 <br>
 
+Got my gender updated passport with `F` on 10th Nov.
+1 week for entire process, 5 days for passport to be printed.
 
 This was a weird process for me since most people I've spoken to in Hyderabad has mentioned that TG Cards were not being accepted, B/L Orchiectomy surgery being denied at the APO cabin, While I was not asked for TG Card or anything.
 
